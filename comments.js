@@ -1,4 +1,4 @@
-// create webserver for comments
+// create web server for comments
 //==============================================================================
 
 
